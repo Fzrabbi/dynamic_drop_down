@@ -1,0 +1,364 @@
+[
+    {
+     "id":"1",
+     "name":"Barisal",
+     "parent_id":"0"
+    }, 
+    {
+     "id":"2",
+     "name":"Chittagong",
+     "parent_id":"0"
+    }, 
+    {
+     "id":"3",
+     "name":"Dhaka",
+     "parent_id":"0"
+    },
+    {
+        "id":"4",
+        "name":"Khulna",
+        "parent_id":"0"
+    },
+    {
+        "id":"5",
+        "name":"Mymensingh",
+        "parent_id":"0"
+    },
+    {
+        "id":"6",
+        "name":"Rajshahi",
+        "parent_id":"0"
+    },
+    {
+        "id":"7",
+        "name":"Rangpur",
+        "parent_id":"0"
+    },
+    {
+        "id":"8",
+        "name":"Sylhet",
+        "parent_id":"0"
+    },
+    {
+        "id":"3",
+        "name":"Barguna District",
+        "parent_id":"1"
+    },
+    {
+        "id":"3",
+        "name":"Barisal District",
+        "parent_id":"1"
+    },
+    {
+        "id":"3",
+        "name":"Bhola District",
+        "parent_id":"1"
+    },
+    {
+        "id":"3",
+        "name":"Jhalokati District",
+        "parent_id":"1"
+    },
+    {
+        "id":"3",
+        "name":"Patuakhali District",
+        "parent_id":"1"
+    },
+    {
+        "id":"3",
+        "name":"Pirojpur District",
+        "parent_id":"1"
+    },
+    {
+        "id":"3",
+        "name":"Bandarban District",
+        "parent_id":"2"
+    },
+    {
+        "id":"3",
+        "name":"Brahmanbaria District",
+        "parent_id":"2"
+    },
+    {
+        "id":"3",
+        "name":"Chandpur District",
+        "parent_id":"2"
+    },
+    {
+        "id":"3",
+        "name":"Chittagong District",
+        "parent_id":"2"
+    },
+    {
+        "id":"3",
+        "name":"Comilla District",
+        "parent_id":"2"
+    },
+    {
+        "id":"3",
+        "name":"Cox's Bazar District",
+        "parent_id":"2"
+    },
+    {
+        "id":"3",
+        "name":"Feni District",
+        "parent_id":"2"
+    },
+    {
+        "id":"3",
+        "name":"Khagrachhari District",
+        "parent_id":"2"
+    },
+    {
+        "id":"3",
+        "name":"Lakshmipur District",
+        "parent_id":"2"
+    },
+    {
+        "id":"3",
+        "name":"Noakhali District",
+        "parent_id":"2"
+    },
+    {
+        "id":"3",
+        "name":"Rangamati District",
+        "parent_id":"2"
+    },
+    {
+        "id":"3",
+        "name":"Dhaka District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Faridpur District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Gazipur District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Gopalganj District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Kishoreganj District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Madaripur District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Manikganj District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Munshiganj District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Narayanganj District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Narsingdi District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Rajbari District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Shariatpur District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Tangail District",
+        "parent_id":"3"
+    },
+    {
+        "id":"3",
+        "name":"Bagerhat District",
+        "parent_id":"4"
+    },
+    {
+        "id":"3",
+        "name":"Chuadanga District",
+        "parent_id":"4"
+    },
+    {
+        "id":"3",
+        "name":"Jessore District",
+        "parent_id":"4"
+    },
+    {
+        "id":"3",
+        "name":"Jhenaidah District",
+        "parent_id":"4"
+    },
+    {
+        "id":"3",
+        "name":"Khulna District",
+        "parent_id":"4"
+    },
+    {
+        "id":"3",
+        "name":"Kushtia District",
+        "parent_id":"4"
+    },
+    {
+        "id":"3",
+        "name":"Magura District",
+        "parent_id":"4"
+    },
+    {
+        "id":"3",
+        "name":"Meherpur District",
+        "parent_id":"4"
+    },
+    {
+        "id":"3",
+        "name":"Narail District",
+        "parent_id":"4"
+    },
+    {
+        "id":"3",
+        "name":"Satkhira District",
+        "parent_id":"4"
+    },
+    {
+        "id":"3",
+        "name":"Jamalpur District",
+        "parent_id":"5"
+    },
+    {
+        "id":"3",
+        "name":"Mymensingh District",
+        "parent_id":"5"
+    },
+    {
+        "id":"3",
+        "name":"Netrokona District",
+        "parent_id":"5"
+    },
+    {
+        "id":"3",
+        "name":"Sherpur District",
+        "parent_id":"5"
+    },
+    {
+        "id":"3",
+        "name":"Bogra District",
+        "parent_id":"6"
+    },
+    {
+        "id":"3",
+        "name":"Joypurhat District",
+        "parent_id":"6"
+    },
+    {
+        "id":"3",
+        "name":"Naogaon District",
+        "parent_id":"6"
+    },
+    {
+        "id":"3",
+        "name":"Natore District",
+        "parent_id":"6"
+    },
+    {
+        "id":"3",
+        "name":"Chapainawabganj District",
+        "parent_id":"6"
+    },
+    {
+        "id":"3",
+        "name":"Pabna District",
+        "parent_id":"6"
+    },
+    {
+        "id":"3",
+        "name":"Rajshahi District",
+        "parent_id":"6"
+    },
+    {
+        "id":"3",
+        "name":"Sirajganj District",
+        "parent_id":"6"
+    },   
+    {
+        "id":"3",
+        "name":"Dinajpur District",
+        "parent_id":"7"
+    },
+    {
+        "id":"3",
+        "name":"Gaibandha District",
+        "parent_id":"7"
+    },
+    {
+        "id":"3",
+        "name":"Kurigram District",
+        "parent_id":"7"
+    },
+    {
+        "id":"3",
+        "name":"Lalmonirhat District",
+        "parent_id":"7"
+    },
+    {
+        "id":"3",
+        "name":"Nilphamari District",
+        "parent_id":"7"
+    },
+    {
+        "id":"3",
+        "name":"Panchagarh District",
+        "parent_id":"7"
+    },
+    {
+        "id":"3",
+        "name":"Rangpur District",
+        "parent_id":"7"
+    },
+    {
+        "id":"3",
+        "name":"Thakurgaon District",
+        "parent_id":"7"
+    },
+    {
+        "id":"3",
+        "name":"Habiganj District",
+        "parent_id":"8"
+    },
+    {
+        "id":"3",
+        "name":"Moulvibazar District",
+        "parent_id":"8"
+    },
+    {
+        "id":"3",
+        "name":"Sunamganj District",
+        "parent_id":"8"
+    },
+    {
+        "id":"3",
+        "name":"Sylhet District",
+        "parent_id":"8"
+    } 
+    
+]
+   
